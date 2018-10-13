@@ -1,0 +1,40 @@
+
+body, html{
+    background-image: url("../images/maul-background.jpeg");
+    height: 100%; 
+    margin:0;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.chars {
+    background-color: white;
+    font-size: 12px;
+    float: left;
+    height:135px;
+    width:170px;
+    text-align: center;
+    border: 2px solid darkgreen;
+}
+.statement1, .statement2{
+    color: darkred;
+    font-size:20px;
+    font-style: oblique;
+}
+
+img{
+    height: 70%;
+    width: 80%;
+}
+
+h1{
+    text-align:center;
+    font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+    font-size: 20px;
+}

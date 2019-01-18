@@ -38,6 +38,7 @@ function reset(){
     $(".chars").css({"background-color":"white",
                             "border-color":"darkgreen",
                         "color":"black"});
+    $(".statement1").html("");
     char = '';
     myAttack = '';
     health = '';
